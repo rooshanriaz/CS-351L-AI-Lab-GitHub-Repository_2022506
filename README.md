@@ -14,9 +14,9 @@ This repository contains implementations of various AI algorithms completed as p
 ## Lab 1: Number Guessing Game
 
 In the first lab, we implemented and tested the following search algorithms on a number guessing game:
-### BFS
-### DFS
-### Simulated Annealing
+#### BFS
+#### DFS
+#### Simulated Annealing
 
 ## Lab 2: 2048 Game
 
