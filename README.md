@@ -15,8 +15,16 @@ This repository contains implementations of various AI algorithms completed as p
 
 In the first lab, we implemented and tested the following search algorithms on a number guessing game:
 #### BFS
+
+Breadth-First Search (BFS) explores all nodes at the present depth level before moving on to nodes at the next depth level. It's a complete and optimal search strategy for finite spaces.
+
 #### DFS
+
+Depth-First Search (DFS) explores as far down as possible along a branch before backtracking. It can be more memory-efficient but may not always find the optimal solution in large search spaces.
+
 #### Simulated Annealing
+
+Simulated Annealing is a probabilistic technique that approximates the global optimum of a given function. It is particularly useful in optimization problems with large, complex search spaces.
 
 ## Lab 2: 2048 Game
 
