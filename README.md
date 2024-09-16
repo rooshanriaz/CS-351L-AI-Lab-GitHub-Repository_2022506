@@ -1,46 +1,50 @@
 # CS-351-AI-Lab
 
-This repository contains implementations of various AI algorithms completed as part of the CS-351 AI Lab course. Each lab involves solving different problems using classic and heuristic search algorithms.
+Welcome to the **CS-351 AI Lab** repository! This project contains implementations of various AI algorithms as part of the CS-351 AI Lab course. Each lab showcases different algorithms applied to solve problems using classic and heuristic search techniques.
 
 ## Table of Contents
-- [Lab 1: Introduction to Artificial Intelligence and Python Basics](lab-01-Introduction-to-Artificial-Intelligence-and-Python-Basics)
+
+- [Lab 1: Introduction to Artificial Intelligence and Python Basics](#lab-1-introduction-to-artificial-intelligence-and-python-basics)
   - [BFS](#bfs)
   - [DFS](#dfs)
   - [Simulated Annealing](#simulated-annealing)
-- [Lab 2: Introduction to Search in AI](#lab-02-Introduction-to-Search-in-AI)
+- [Lab 2: Introduction to Search in AI](#lab-2-introduction-to-search-in-ai)
 - [License](#license)
 
-## Lab 1: Number Guessing Game
+## Lab 1: Introduction to Artificial Intelligence and Python Basics
 
-In the first lab, I implemented and tested the following search algorithms on a number guessing game:
-#### BFS
+In this lab, I implemented and tested various search algorithms on a number guessing game:
 
-Breadth-First Search (BFS) explores all nodes at the present depth level before moving on to nodes at the next depth level. It's a complete and optimal search strategy for finite spaces.
+### BFS
 
-#### DFS
+**Breadth-First Search (BFS)** explores all nodes at the present depth level before moving on to nodes at the next depth level. It is a complete and optimal search strategy for finite spaces.
 
-Depth-First Search (DFS) explores as far down as possible along a branch before backtracking. It can be more memory-efficient but may not always find the optimal solution in large search spaces.
+### DFS
 
-#### Simulated Annealing
+**Depth-First Search (DFS)** explores as far down as possible along a branch before backtracking. It is more memory-efficient but may not always find the optimal solution in large search spaces.
 
-Simulated Annealing is a probabilistic technique that approximates the global optimum of a given function. It is particularly useful in optimization problems with large, complex search spaces.
+### Simulated Annealing
 
-## Lab 2: Maze Solver Game
+**Simulated Annealing** is a probabilistic technique that approximates the global optimum of a given function. It is especially useful for optimization problems with large, complex search spaces.
 
-In the second lab, I implemented the A* search algorithm to solve the Maze Runner game. A* is an informed search algorithm that uses a heuristic to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
+## Lab 2: Introduction to Search in AI
 
-## **Contact**
+In this lab, I implemented the **A* Search Algorithm** to solve the Maze Runner game. A* is an informed search algorithm that uses heuristics to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
 
-For any queries or assistance, feel free to reach out to the course instructor:  
+## Contact
+
+For any queries or assistance, feel free to reach out to the course instructor:
+
 **Mr. Usama Arshad**  
-**GitHub:** [usamajanjua9](https://github.com/usamajanjua9)
+[GitHub: usamajanjua9](https://github.com/usamajanjua9)
 
-## 🙋‍♂️ **Maintainer**
+## 🙋‍♂️ Maintainer
 
-This repository is maintained by:  
+This repository is maintained by:
+
 **Rooshan Riaz**  
-**GitHub:** [rooshanriaz](https://github.com/rooshanriaz)
+[GitHub: rooshanriaz](https://github.com/rooshanriaz)
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
