@@ -28,7 +28,7 @@ Simulated Annealing is a probabilistic technique that approximates the global op
 
 ## Lab 2: 2048 Game
 
-In the second lab, we implemented the A* search algorithm to solve the 2048 game. A* is an informed search algorithm that uses a heuristic to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
+In the second lab, I implemented the A* search algorithm to solve the Maze Runner game. A* is an informed search algorithm that uses a heuristic to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
 
 ## **Contact**
 
