@@ -8,7 +8,6 @@ This repository contains implementations of various AI algorithms completed as p
   - [DFS](#dfs)
   - [Simulated Annealing](#simulated-annealing)
 - [Lab 2: Introduction to Search in AI](#lab-02-Introduction-to-Search-in-AI)
-  - [A* Algorithm](#a-algorithm)
 - [License](#license)
 
 ## Lab 1: Number Guessing Game
