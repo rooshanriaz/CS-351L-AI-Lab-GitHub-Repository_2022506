@@ -29,7 +29,7 @@ In this lab, I implemented and tested various search algorithms on a number gues
 
 ## Lab 2: Introduction to Search in AI
 
-In this lab, I implemented the ** A* Search Algorithm ** to solve the Maze Runner game. A* is an informed search algorithm that uses heuristics to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
+In this lab, I implemented the **A* Search Algorithm** to solve the Maze Runner game. A* is an informed search algorithm that uses heuristics to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
 
 ## Contact
 
