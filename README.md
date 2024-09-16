@@ -26,7 +26,7 @@ Depth-First Search (DFS) explores as far down as possible along a branch before 
 
 Simulated Annealing is a probabilistic technique that approximates the global optimum of a given function. It is particularly useful in optimization problems with large, complex search spaces.
 
-## Lab 2: 2048 Game
+## Lab 2: Maze Solver Game
 
 In the second lab, I implemented the A* search algorithm to solve the Maze Runner game. A* is an informed search algorithm that uses a heuristic to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
 
