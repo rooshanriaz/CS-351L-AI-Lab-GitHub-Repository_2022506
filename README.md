@@ -44,7 +44,3 @@ This repository is maintained by:
 
 **Rooshan Riaz**  
 [GitHub: rooshanriaz](https://github.com/rooshanriaz)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
