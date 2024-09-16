@@ -12,7 +12,7 @@ This repository contains implementations of various AI algorithms completed as p
 
 ## Lab 1: Number Guessing Game
 
-In the first lab, we implemented and tested the following search algorithms on a number guessing game:
+In the first lab, I implemented and tested the following search algorithms on a number guessing game:
 #### BFS
 
 Breadth-First Search (BFS) explores all nodes at the present depth level before moving on to nodes at the next depth level. It's a complete and optimal search strategy for finite spaces.
