@@ -32,7 +32,7 @@ In this lab, I implemented and tested various search algorithms on a number gues
 
 In this lab, I implemented the **A* Search Algorithm** to solve the Maze Runner game. A* is an informed search algorithm that uses heuristics to estimate the cost of reaching the goal, making it both complete and optimal under certain conditions.
 
-## Lab 3: Constraint Satisfaction Problems (CSP)
+## Lab 3: Constraint Satisfaction Problems
 
 In this lab, I implemented CSP on an activity scheduling problem, which enables multiple individuals to schedule their activities according to time constraints.
 
