@@ -10,7 +10,7 @@ Welcome to the **CS-351 AI Lab** repository! This project contains implementatio
   - [Simulated Annealing](#simulated-annealing)
 - [Lab 2: Introduction to Search in AI](#lab-2-introduction-to-search-in-ai)
 - [Lab 3: Constraint Satisfaction Problems](#lab-3-constraint-satisfaction-problems)
-- [Lab 4: k-Nearest Neighbors (k-NN) & Decision Trees](#lab-4-k-nearest-neighbors-(k-nn)-&-decision-trees)
+- [Lab 4: k-Nearest Neighbors (k-NN) & Decision Trees](#lab-4-k-nearest-neighbors-knn--decision-trees)
 - [License](#license)
 
 ## Lab 1: Introduction to Artificial Intelligence and Python Basics
