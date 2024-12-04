@@ -11,6 +11,7 @@ Welcome to the **CS-351 AI Lab** repository! This project contains implementatio
 - [Lab 2: Introduction to Search in AI](#lab-2-introduction-to-search-in-ai)
 - [Lab 3: Constraint Satisfaction Problems](#lab-3-constraint-satisfaction-problems)
 - [Lab 4: k-Nearest Neighbors (k-NN) & Decision Trees](#lab-4-k-nearest-neighbors-knn--decision-trees)
+- [Lab 8: Neural Networks](#lab-8-neural-networks)
 
 - [License](#license)
 
@@ -41,6 +42,10 @@ In this lab, I implemented CSP on an activity scheduling problem, which enables 
 ## Lab 4 : k-Nearest Neighbors (k-NN) & Decision Trees
 
 In this task, I predicted whether passengers survived the Titanic disaster using the k-Nearest Neighbors (k-NN) and Decision Tree algorithms. The dataset includes features like age, gender, ticket class, and fare. After data preprocessing and splitting into training and test sets, both models are trained and evaluated using performance metrics like accuracy, precision, recall, and F1-score. Finally, the models' decision boundaries and performance metrics are visualized for comparison.
+
+## Lab 8 : Neural Networks
+
+
 
 ## Contact
 
