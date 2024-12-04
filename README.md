@@ -45,7 +45,7 @@ In this task, I predicted whether passengers survived the Titanic disaster using
 
 ## Lab 8: Neural Networks
 
-
+I explored neural network classification techniques by implementing and analyzing multi-layer neural networks on the Iris and Wine datasets using TensorFlow and Keras.I investigated the impact of network architecture modifications, demonstrating how varying hidden layer configurations influence model performance across different datasets. Through comprehensive visualizations of training dynamics, accuracy metrics, and classification reports, I got insights into neural network design principles, showcasing the nuanced relationship between model complexity and predictive capabilities in machine learning classification tasks.
 
 ## Contact
 
