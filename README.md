@@ -39,11 +39,11 @@ In this lab, I implemented the **A* Search Algorithm** to solve the Maze Runner 
 
 In this lab, I implemented CSP on an activity scheduling problem, which enables multiple individuals to schedule their activities according to time constraints.
 
-## Lab 4 : k-Nearest Neighbors (k-NN) & Decision Trees
+## Lab 4: k-Nearest Neighbors (k-NN) & Decision Trees
 
 In this task, I predicted whether passengers survived the Titanic disaster using the k-Nearest Neighbors (k-NN) and Decision Tree algorithms. The dataset includes features like age, gender, ticket class, and fare. After data preprocessing and splitting into training and test sets, both models are trained and evaluated using performance metrics like accuracy, precision, recall, and F1-score. Finally, the models' decision boundaries and performance metrics are visualized for comparison.
 
-## Lab 8 : Neural Networks
+## Lab 8: Neural Networks
 
 
 
